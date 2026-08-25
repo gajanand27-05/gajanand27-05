@@ -127,28 +127,28 @@ A **multimodal orchestration platform** — vision, speech and task pipelining b
 </td>
 <td width="33%" valign="top">
 
-<h3 align="center">⚡ NEXUS</h3>
+<h3 align="center">🛰️ Agents of SigNoz</h3>
 <p align="center">
-<a href="https://github.com/gajanand27-05/NEXUS"><img src="https://img.shields.io/badge/OPEN_REPO-0A0A0F?style=for-the-badge&logo=github&logoColor=00F0FF" alt="Open NEXUS"/></a>
+<a href="https://github.com/gajanand27-05/SigNoz-conform"><img src="https://img.shields.io/badge/OPEN_REPO-0A0A0F?style=for-the-badge&logo=github&logoColor=00F0FF" alt="Open SigNoz-conform"/></a>
 </p>
 
-**The platform where innovation events happen.** One hackathon workflow instead of Forms plus Discord plus spreadsheets — product, database and API specs frozen, Next.js app scaffolded against them. **In build.**
+**AI and agent observability.** SigNoz ships the machinery — this closes the silent gates between a self-hoster and a working feature, then adds the signal it was missing: *measured* answer quality, with regression alerts.
 
-<p align="center"><img src="https://skillicons.dev/icons?i=ts,nextjs,supabase&theme=dark" height="34" alt="TypeScript, Next.js, Supabase"/></p>
-<p align="center"><sub><code>Product Design</code> <code>Next.js</code> <code>In Progress</code></sub></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,bash&theme=dark" height="34" alt="Python, Bash"/></p>
+<p align="center"><sub><code>OpenTelemetry</code> <code>LLM Evals</code> <code>Alerting</code></sub></p>
 
 </td>
 <td width="33%" valign="top">
 
-<h3 align="center">🎓 KNS FAQ Bot</h3>
+<h3 align="center">🔍 Domain RAG Chatbot</h3>
 <p align="center">
-<a href="https://github.com/gajanand27-05/kns-bot"><img src="https://img.shields.io/badge/OPEN_REPO-0A0A0F?style=for-the-badge&logo=github&logoColor=7B2CFF" alt="Open kns-bot"/></a>
+<a href="https://github.com/gajanand27-05/Domain_RAG_chatbot"><img src="https://img.shields.io/badge/OPEN_REPO-0A0A0F?style=for-the-badge&logo=github&logoColor=7B2CFF" alt="Open Domain_RAG_chatbot"/></a>
 </p>
 
-**Production-shaped RAG.** Answers grounded in official college handbooks with conversation memory — Llama 3.3 70B on Groq, pgvector on Supabase, and a local fallback when the API is gone.
+**Grounded PDF question answering.** Every answer comes only from retrieved chunks, cited down to the document and page — and it refuses rather than inventing when the documents do not cover the question.
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,fastapi,supabase,postgres&theme=dark" height="34" alt="Python, FastAPI, Supabase, Postgres"/></p>
-<p align="center"><sub><code>RAG</code> <code>pgvector</code> <code>Groq</code></sub></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,git&theme=dark" height="34" alt="Python, Git"/></p>
+<p align="center"><sub><code>Streamlit</code> <code>LangChain</code> <code>Citations</code></sub></p>
 
 </td>
 </tr>
@@ -158,8 +158,8 @@ A **multimodal orchestration platform** — vision, speech and task pipelining b
 <sub><b>ALSO IN THE LAB →</b></sub>
 &nbsp;
 <a href="https://github.com/gajanand27-05/finsim_ai_my"><img src="https://img.shields.io/badge/FinSim_AI%2B-0A0A0F?style=flat-square&logo=react&logoColor=00F0FF" alt="FinSim AI+"/></a>
-<a href="https://github.com/gajanand27-05/Domain_RAG_chatbot"><img src="https://img.shields.io/badge/Domain_RAG_Chatbot-0A0A0F?style=flat-square&logo=python&logoColor=FF2E97" alt="Domain RAG Chatbot"/></a>
-<a href="https://github.com/gajanand27-05/SigNoz-conform"><img src="https://img.shields.io/badge/Agents_of_SigNoz-0A0A0F?style=flat-square&logo=opentelemetry&logoColor=FF2E97" alt="Agents of SigNoz"/></a>
+<a href="https://github.com/gajanand27-05/kns-bot"><img src="https://img.shields.io/badge/KNS_FAQ_Bot-0A0A0F?style=flat-square&logo=python&logoColor=FF2E97" alt="KNS FAQ Bot"/></a>
+<a href="https://github.com/gajanand27-05/NEXUS"><img src="https://img.shields.io/badge/NEXUS-0A0A0F?style=flat-square&logo=nextdotjs&logoColor=7B2CFF" alt="NEXUS"/></a>
 </div>
 
 <br/>
