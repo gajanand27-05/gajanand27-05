@@ -165,6 +165,35 @@ A **multimodal orchestration platform** — vision, speech and task pipelining b
 <br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,45:7B2CFF,100:0A0A0F&height=44&section=header&text=%2F%2F%20OPEN%20SOURCE&fontSize=22&fontColor=00F0FF&fontAlignY=58" alt="// OPEN SOURCE" width="100%"/>
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="left" width="36%" valign="top">
+<a href="https://github.com/Yashash4/reef-mcp-registry"><b>reef-mcp-registry</b></a>
+&nbsp;<img src="https://img.shields.io/github/stars/Yashash4/reef-mcp-registry?style=flat-square&color=FF2E97&labelColor=0A0A0F&logo=github&logoColor=FF2E97" alt="Stars"/>
+<br/><sub>by <a href="https://github.com/Yashash4">@Yashash4</a></sub>
+</td>
+<td align="left" valign="top"><sub>Co-authored refactors to the presentation and config layers, and to Gemini Live API handling.</sub></td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<a href="https://github.com/Yashash4/devops-pipeline-gym"><b>devops-pipeline-gym</b></a>
+&nbsp;<img src="https://img.shields.io/github/stars/Yashash4/devops-pipeline-gym?style=flat-square&color=00F0FF&labelColor=0A0A0F&logo=github&logoColor=00F0FF" alt="Stars"/>
+<br/><sub>by <a href="https://github.com/Yashash4">@Yashash4</a></sub>
+</td>
+<td align="left" valign="top"><sub>Contributed 48 SFT trajectories covering judgment-call and cascading-failure scenarios.</sub></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,45:FF2E97,100:0A0A0F&height=44&section=header&text=%2F%2F%20TELEMETRY&fontSize=22&fontColor=00F0FF&fontAlignY=58" alt="// TELEMETRY" width="100%"/>
 </div>
 
