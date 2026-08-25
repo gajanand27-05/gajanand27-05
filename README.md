@@ -165,42 +165,6 @@ A **multimodal orchestration platform** — vision, speech and task pipelining b
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,45:7B2CFF,100:0A0A0F&height=44&section=header&text=%2F%2F%20TECH%20ARSENAL&fontSize=22&fontColor=00F0FF&fontAlignY=58" alt="// TECH ARSENAL" width="100%"/>
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="right" width="24%"><sub><b>LANGUAGES</b></sub></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=python,ts,js,html,css&theme=dark" height="42" alt="Python, TypeScript, JavaScript, HTML, CSS"/></td>
-</tr>
-<tr>
-<td align="right"><sub><b>AI &amp; ML</b></sub></td>
-<td align="left">
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="42" alt="PyTorch"/>
-&nbsp;<img src="https://cdn.simpleicons.org/googlegemini/FF2E97" height="34" alt="Google Gemini"/>
-&nbsp;<img src="https://cdn.simpleicons.org/ollama/00F0FF" height="34" alt="Ollama"/>
-&nbsp;<img src="https://cdn.simpleicons.org/langchain/7B2CFF" height="34" alt="LangChain"/>
-&nbsp;<img src="https://cdn.simpleicons.org/huggingface/FF2E97" height="34" alt="Hugging Face"/>
-&nbsp;<img src="https://cdn.simpleicons.org/streamlit/00F0FF" height="34" alt="Streamlit"/>
-</td>
-</tr>
-<tr>
-<td align="right"><sub><b>BACKEND &amp; DATA</b></sub></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=fastapi,supabase,postgres,sqlite&theme=dark" height="42" alt="FastAPI, Supabase, Postgres, SQLite"/></td>
-</tr>
-<tr>
-<td align="right"><sub><b>FRONTEND &amp; OPS</b></sub></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,docker,git,github,vscode,linux&theme=dark" height="42" alt="React, Vite, Tailwind, Docker, Git, GitHub, VS Code, Linux"/></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,45:FF2E97,100:0A0A0F&height=44&section=header&text=%2F%2F%20TELEMETRY&fontSize=22&fontColor=00F0FF&fontAlignY=58" alt="// TELEMETRY" width="100%"/>
 </div>
 
