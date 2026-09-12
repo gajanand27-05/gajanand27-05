@@ -70,6 +70,38 @@ Refresh your profile — the snake is now live and regenerates every 12 hours.
 
 ---
 
+## Optional: live stat cards
+
+The three most popular stat widgets are **currently broken at the source** and
+are deliberately not used in the README:
+
+| Service | Status when this was built |
+|---|---|
+| `github-readme-stats.vercel.app` | `503 Service Unavailable` |
+| `github-profile-trophy.vercel.app` | `402 Payment Required` |
+| `github-readme-activity-graph.vercel.app` | `402 Payment Required` |
+
+Their maintainers' free Vercel quotas are exhausted, and every public mirror
+returns `Maximum retries exceeded`. Nothing you do to the URL fixes it.
+
+The Telemetry section is instead built from services verified working:
+`streak-stats.demolab.com`, `ghchart.rshah.org`, and `shields.io`.
+
+**To get the stat cards anyway, deploy your own instance (free, ~10 minutes):**
+
+1. Fork <https://github.com/anuraghazra/github-readme-stats>
+2. Create a GitHub personal access token at
+   <https://github.com/settings/tokens> — classic, scope `public_repo` only
+3. Go to <https://vercel.com/new>, import your fork
+4. Add an environment variable: `PAT_1` = the token from step 2
+5. Deploy, then copy your deployment URL (e.g. `my-stats.vercel.app`)
+6. In `README.md`, find the `OPTIONAL UPGRADE` comment block in the Telemetry
+   section, replace `YOUR-INSTANCE` with your URL, and uncomment it
+
+Your own instance has its own rate limit, so it will not go down the way the
+shared one did. The same fork-and-deploy trick works for
+`github-profile-trophy` if you want the trophy wall back.
+
 ## Troubleshooting
 
 **Snake image still broken after step 4**
@@ -77,6 +109,16 @@ Check that the `output` branch exists at
 `https://github.com/gajanand27-05/gajanand27-05/branches`. If it does not, the
 Action failed — open the Actions tab and read the red run. The cause is almost
 always workflow permissions still being read-only.
+
+**The streak card shows an error box**
+`streak-stats.demolab.com` is free and rate limited. It usually recovers within
+a few minutes — reload before assuming the URL is broken.
+
+**The language distribution bar is out of date**
+That block is static text, measured on 2026-08-25 across your 18 non-fork repos
+(13.7 MB total). It does not auto-update. Re-measure it whenever the split
+shifts noticeably, or switch to the live top-languages card via
+*Optional: live stat cards* above.
 
 **An icon does not appear**
 `skillicons.dev` and `cdn.simpleicons.org` occasionally change slugs. Every
@@ -96,8 +138,10 @@ have them. Source of truth is `repo-descriptions.md`; re-apply any time with
 the pinned section match the README's featured grid — and now that descriptions
 exist, those pin cards will actually have text on them.
 
-**Update the header when things change.** The line most worth keeping current is
-the `STATUS` badge (currently `BUILDING_SG--CUBE`).
+**Update the header when things change.** The two lines most worth keeping
+current are the `STATUS` badge (currently `BUILDING_SG--CUBE`) and the
+`current_focus.txt` block. A stale focus block is more obvious than no focus
+block.
 
 ## Editing the palette
 
