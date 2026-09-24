@@ -194,60 +194,6 @@ A **multimodal orchestration platform** — vision, speech and task pipelining b
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,45:FF2E97,100:0A0A0F&height=44&section=header&text=%2F%2F%20TELEMETRY&fontSize=22&fontColor=00F0FF&fontAlignY=58" alt="// TELEMETRY" width="100%"/>
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgajanand27-05&query=%24.public_repos&style=for-the-badge&label=PUBLIC%20REPOS&color=FF2E97&labelColor=0A0A0F&logo=github&logoColor=white" alt="Public repos"/>
-<img src="https://img.shields.io/github/followers/gajanand27-05?style=for-the-badge&label=FOLLOWERS&color=00F0FF&labelColor=0A0A0F&logo=github&logoColor=white" alt="Followers"/>
-<img src="https://img.shields.io/github/last-commit/gajanand27-05/sg-cube_v1?style=for-the-badge&label=LAST%20PUSH&color=7B2CFF&labelColor=0A0A0F&logo=git&logoColor=white" alt="Last commit to sg-cube_v1"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=gajanand27-05&background=0A0A0F&border=7B2CFF&stroke=7B2CFF&ring=FF2E97&fire=FF2E97&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2E97&sideLabels=00F0FF&dates=7B2CFF&border_radius=10" height="190" alt="Contribution streak"/>
-
-</div>
-
-<br/>
-
-<div align="center"><sub><b>CONTRIBUTION HEATMAP</b></sub></div>
-
-<div align="center">
-<img src="https://ghchart.rshah.org/FF2E97/gajanand27-05" alt="Contribution heatmap" width="98%"/>
-</div>
-
-<br/>
-
-<div align="center"><sub><b>LANGUAGE DISTRIBUTION</b> &nbsp;·&nbsp; 13.7 MB across 18 repositories</sub></div>
-
-```text
-Python       ████████████████████████████░░░░░░░░░░░  72.6 %
-JavaScript   █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  21.3 %
-HTML         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.4 %
-TypeScript   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1.9 %
-CSS          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1.3 %
-other        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.5 %
-```
-
-<!--
-  ────────────────────────────────────────────────────────────────────
-  OPTIONAL UPGRADE — live stat cards, trophies, and activity graph.
-
-  The public instances of github-readme-stats, github-profile-trophy and
-  github-readme-activity-graph are currently DOWN (503 / 402 quota
-  exceeded), which is why they are not used above. They work fine once
-  you deploy your own free instance — see "Optional: live stat cards"
-  in SETUP.md, then replace YOUR-INSTANCE below and uncomment.
-
-<img src="https://YOUR-INSTANCE.vercel.app/api?username=gajanand27-05&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0A0A0F&title_color=FF2E97&text_color=00F0FF&icon_color=7B2CFF&border_color=7B2CFF&border_radius=10" height="190" alt="GitHub stats"/>
-<img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=gajanand27-05&layout=compact&langs_count=8&bg_color=0A0A0F&title_color=FF2E97&text_color=00F0FF&border_color=7B2CFF&border_radius=10" height="190" alt="Top languages"/>
-  ────────────────────────────────────────────────────────────────────
--->
-
-<br/>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,45:00F0FF,100:0A0A0F&height=44&section=header&text=%2F%2F%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=0A0A0F&fontAlignY=58" alt="// CONTRIBUTION SNAKE" width="100%"/>
 </div>
 
