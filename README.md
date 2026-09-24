@@ -50,22 +50,6 @@ I'd rather ship **one system that works end to end** than ten notebooks that nev
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,45:38BDF8,100:0B1220&height=44&section=header&text=%2F%2F%20CURRENT%20FOCUS&fontSize=22&fontColor=2DD4BF&fontAlignY=58" alt="// CURRENT FOCUS" width="100%"/>
-</div>
-
-```console
-gajanand@ai-rig:~$ cat ./current_focus.txt
-
-  ▸ SG-CUBE v1 ......... taking a local-first voice assistant to daily-driver quality
-  ▸ PyTorch ............ from training loops up to models that actually deploy
-  ▸ Honest RAG ......... grounding, citations, and the discipline to say "I don't know"
-
-gajanand@ai-rig:~$ _
-```
-
-<br/>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,45:2DD4BF,100:0B1220&height=44&section=header&text=%2F%2F%20FEATURED%20BUILDS&fontSize=22&fontColor=0B1220&fontAlignY=58" alt="// FEATURED BUILDS" width="100%"/>
 </div>
 

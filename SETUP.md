@@ -138,10 +138,8 @@ have them. Source of truth is `repo-descriptions.md`; re-apply any time with
 the pinned section match the README's featured grid — and now that descriptions
 exist, those pin cards will actually have text on them.
 
-**Update the header when things change.** The two lines most worth keeping
-current are the `STATUS` badge (currently `BUILDING_SG--CUBE`) and the
-`current_focus.txt` block. A stale focus block is more obvious than no focus
-block.
+**Update the header when things change.** The line most worth keeping current
+is the `STATUS` badge (currently `BUILDING_SG--CUBE`).
 
 ## Editing the palette
 
