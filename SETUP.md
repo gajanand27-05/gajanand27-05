@@ -150,10 +150,10 @@ re-skin the whole page consistently:
 
 | Role | Hex |
 |---|---|
-| Void black (backgrounds) | `0A0A0F` |
-| Hot magenta (accent 1) | `FF2E97` |
-| Electric cyan (accent 2) | `00F0FF` |
-| Violet (bridge / borders) | `7B2CFF` |
+| Deep slate (backgrounds) | `0B1220` |
+| Ice blue (accent 1) | `38BDF8` |
+| Teal (accent 2) | `2DD4BF` |
+| Steel blue (bridge / borders) | `4F79C4` |
 
 The snake colors live separately in `.github/workflows/snake.yml` and use `#`
 prefixes.

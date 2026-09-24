@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: gajanand27-05
           outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=#FF2E97&color_dots=#0A0A0F,#3D1A6B,#7B2CFF,#00B8D4,#00F0FF
-            dist/snake-dark.svg?palette=github-dark&color_snake=#00F0FF&color_dots=#0A0A0F,#4A0F30,#7B2CFF,#C41E7A,#FF2E97
+            dist/snake.svg?palette=github-dark&color_snake=#38BDF8&color_dots=#0B1220,#1E3A5F,#0E7490,#2DD4BF,#38BDF8
+            dist/snake-dark.svg?palette=github-dark&color_snake=#2DD4BF&color_dots=#0B1220,#164E63,#4F79C4,#38BDF8,#2DD4BF
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4
